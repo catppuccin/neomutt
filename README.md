@@ -23,6 +23,7 @@
 ## 💝 Thanks to
 
 - [gregf](https://github.com/gregf)
+- [Sekki](https://github.com/Sekki21956)
 
 &nbsp;
 
