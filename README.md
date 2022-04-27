@@ -17,19 +17,12 @@
 
 ## Usage
 
-1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
-
-## 🙋 FAQ (optional)
-
-- Q: **_"Where can I find the doc?"_**
-  A: Run `:help theme`
+1. Install Catppuccin Theme for your Terminal.
+2. Copy the contents of neomuttrc into your neomutt config file.
 
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+- [gregf](https://github.com/gregf)
 
 &nbsp;
 
