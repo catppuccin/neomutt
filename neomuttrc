@@ -1,0 +1,34 @@
+color normal		  color15 default             # Text is white
+color index		    color2 default ~N       # New Messages are green
+color index		    color1 default ~F              # Flagged messages are red
+color index		    color13 default ~T             # Tagged Messages are red
+color index		    color1 default ~D        # Messages to delete are red with gray0 background
+color attachment	color5 default             # Attachments are pink
+color signature	  color12 default         # Signatures are blue
+color search		  color0 color1             # Highlighted results are gray0 with red background
+
+color indicator		color12 default                  # currently highlighted message
+color error		color1 default              # error messages are red
+color status		color15 default         # status line white text "no" background
+color tree                 color15 default               # thread tree arrows
+color tilde                 color12 default                # blank line padding
+
+color hdrdefault color13 default          # default headers
+color header		color13 default "^From:"
+color header	 	color13 default "^Subject:"
+
+color quoted		color4 default                # quote colours
+color quoted1		color14 default
+color quoted2		color5 default
+color quoted3		color2 default
+color quoted4		color3 default
+color quoted5		color6 default
+
+color body		color2	default		[\-\.+_a-zA-Z0-9]+@[\-\.a-zA-Z0-9]+               # email addresses
+color body	  color2 default		(https?|ftp)://[\-\.,/%~_:?&=\#a-zA-Z0-9]+        # URLs
+color body		color2 default		(^|[[:space:]])\\*[^[:space:]]+\\*([[:space:]]|$) # *bold* text
+color body		color2 default		(^|[[:space:]])_[^[:space:]]+_([[:space:]]|$)     # _underlined_ text
+color body		color2 default		(^|[[:space:]])/[^[:space:]]+/([[:space:]]|$)     # /italic/ text
+
+color sidebar_flagged color1 default # Mailboxes with flagged mails are red
+color sidebar_new color10 default # Mailboxes with new mail are green
