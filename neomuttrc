@@ -1,4 +1,4 @@
-color normal		  color15 default             # Text is white
+color normal		  default default             # Text is white
 color index		    color2 default ~N       # New Messages are green
 color index		    color1 default ~F              # Flagged messages are red
 color index		    color13 default ~T             # Tagged Messages are red
