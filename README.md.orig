@@ -6,6 +6,15 @@
 </h3>
 
 <p align="center">
+<<<<<<< HEAD
+    <a href="https://github.com/catppuccin/neomutt/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/spt?colorA=1e1e28&colorB=c9cbff&style=for-the-badge&logo=starship"></a>
+    <a href="https://github.com/catppuccin/neomutt/issues"><img src="https://img.shields.io/github/issues/catppuccin/spt?colorA=1e1e28&colorB=f7be95&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/neomutt/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/spt?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge"></a>
+</p>
+
+<p align="center">
+  <img src="assets/Neomutt-Catppuccin.png"/>
+=======
     <a href="https://github.com/catppuccin/neomutt/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/neomutt?colorA=1e1e28&colorB=c9cbff&style=for-the-badge&logo=starship"></a>
     <a href="https://github.com/catppuccin/neomutt/issues"><img src="https://img.shields.io/github/issues/catppuccin/neomutt?colorA=1e1e28&colorB=f7be95&style=for-the-badge"></a>
     <a href="https://github.com/catppuccin/neomutt/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/neomutt?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge"></a>
@@ -13,6 +22,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/neomutt/assets/Catppuccin-Thumbnail-Mutt.png"/>
+>>>>>>> a0870c9 (feat: Ctp v0.2.0 Compliant)
 </p>
 
 ## Usage

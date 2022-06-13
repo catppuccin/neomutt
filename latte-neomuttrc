@@ -4,25 +4,25 @@ color index		    color1 default ~F       # Flagged messages are Red
 color index		    color13 default ~T      # Tagged Messages are Red
 color index		    color1 default ~D       # Messages to delete are Red
 color attachment	color5 default          # Attachments are Pink
-color signature	  color8 default          # Signatures are Surface 2
+color signature	  color7 default          # Signatures are Surface 2
 color search		  color4 default          # Highlighted results are Blue
 
-color indicator		default color8          # currently highlighted message Surface 2=Background Text=Foreground
+color indicator		default color7          # currently highlighted message Surface 2=Background Text=Foreground
 color error		    color1 default          # error messages are Red
-color status		  color15 default         # status line "Subtext 0"
-color tree        color15 default         # thread tree arrows Subtext 0
-color tilde       color15 default         # blank line padding Subtext 0
+color status		  color8 default         # status line "Subtext 0"
+color tree        color8 default         # thread tree arrows Subtext 0
+color tilde       color8 default         # blank line padding Subtext 0
 
 color hdrdefault  color13 default         # default headers Pink
 color header		  color13 default "^From:"
 color header	 	  color13 default "^Subject:"
 
-color quoted		  color15 default         # Subtext 0
-color quoted1		  color7 default          # Subtext 1
-color quoted2		  color8 default          # Surface 2
-color quoted3		  color0 default          # Surface 1
-color quoted4		  color0 default
-color quoted5		  color0 default
+color quoted		  color8 default         # Subtext 0
+color quoted1		  color0 default          # Subtext 1
+color quoted2		  color7 default          # Surface 2
+color quoted3		  color15 default          # Surface 1
+color quoted4		  color15 default
+color quoted5		  color15 default
 
 color body		color2 default		[\-\.+_a-zA-Z0-9]+@[\-\.a-zA-Z0-9]+               # email addresses Green
 color body	  color2 default		(https?|ftp)://[\-\.,/%~_:?&=\#a-zA-Z0-9]+        # URLs Green
